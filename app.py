@@ -141,7 +141,7 @@ elif page == "Performance Dashboard":
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style='text-align: center'>
-    Made with ❤️ by StreamForge<br>
+    Made with ❤️ by StreamR<br>
     <small>v1.0.0</small>
 </div>
 """, unsafe_allow_html=True)
